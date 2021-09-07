@@ -1,15 +1,4 @@
 # DocRoc
-# Smile and Let Your Teeth Breathe
-
-The project  includes registration of patients, admin and Doctor, storing their details into the system. The software has the facility to give a unique id for every patient and stores the details of every patient and the staff automatically.Separate dashboard for admin,Patient and Doctor is available .
-
-## Technologies Used
-
-HTML 
-CSS
-Bootstrap
-Python
-DATABASE - SQL
-## Website Overview
-## Let's Have a Look at Website 🔥
-Home Page
+A one stop solution for both dentists (as well as other doctors) and patients to curb their medical needs. From appointment booking, to uploading images of weekly updates, you can find everything as a patient.
+If you are a doctor using our website, managing and keeping up with your numerous patient records was never easier. On your dashboard you can view all the patients under you and their updates as well as their appointment schedules. 
+Keeping in mind how sensitive medical data is for patients and how important it is to mantaint their privacy, we have introduced a meddler- ADMIN. The admin verifies the patients as well as the doctor profiles after they register on our website, requesting an account. Only when the admin approves, the informationc can be accessed by any one of them. Moreover, the admin can view all detailed information about the doctors and patients activity on the website. 
