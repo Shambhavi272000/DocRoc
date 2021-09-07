@@ -1,0 +1,19 @@
+{% extends 'hospital/homebase.html' %}
+{% block content %}
+
+<br>
+<br>
+
+<div class="jumbotron" style="margin-bottom:0px;">
+  <h1 class="display-4" style="text-align:center;">Hello, Doctor</h1>
+  <p class="lead">Welcome to DocRoc System.</p>
+  <hr class="my-4">
+  <p>You can access various features after Login/SignUp.</p><br><br>
+  <img src="static/images/doctor.png" alt="John" style="width:20%;  display: block; margin-left: auto; margin-right: auto;"><br><br>
+  <p class="lead">
+    <a class="btn btn-success btn-lg" href="/doctorsignup" role="button">Apply as Doctor</a>
+    <a class="btn btn-success btn-lg" href="/doctorlogin" role="button">Doctor Login</a>
+  </p>
+</div>
+
+{% endblock content %}
